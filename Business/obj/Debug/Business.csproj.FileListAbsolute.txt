@@ -1,0 +1,11 @@
+C:\Lab04\DAEA-Lab05\Business\bin\Debug\Business.dll
+C:\Lab04\DAEA-Lab05\Business\bin\Debug\Business.pdb
+C:\Lab04\DAEA-Lab05\Business\bin\Debug\Data.dll
+C:\Lab04\DAEA-Lab05\Business\bin\Debug\Entity.dll
+C:\Lab04\DAEA-Lab05\Business\bin\Debug\Data.pdb
+C:\Lab04\DAEA-Lab05\Business\bin\Debug\Entity.pdb
+C:\Lab04\DAEA-Lab05\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+C:\Lab04\DAEA-Lab05\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\Lab04\DAEA-Lab05\Business\obj\Debug\Business.csproj.Up2Date
+C:\Lab04\DAEA-Lab05\Business\obj\Debug\Business.dll
+C:\Lab04\DAEA-Lab05\Business\obj\Debug\Business.pdb
